@@ -8,7 +8,7 @@ import Worksswiper from './Workswiper'
 function About(){
     return(
         <section id="about">
-            <div className="pt-5">
+            <div className="">
                 <div id="" className="col-md-12 lemontitle">I’m Chaehyun</div>
                 <Worksswiper></Worksswiper>
             </div>

@@ -2,9 +2,9 @@ import '../css/form.css'
 
 function Form(){
     return(
-    <div class="container">
+    <div class="col-md-6 p-5">
         <div class="input-form-backgroud row">
-          <div class="input-form col-md-12 mx-auto">
+          <div class="input-form col-md-12">
             <form className="validation-form" novalidate> 
               <div className="row">
                 <div className="col-md-6 mb-3">
@@ -42,7 +42,7 @@ function Form(){
                   <input type="checkbox" className="custom-control-input" id="aggrement" required/>
                   <label className="custom-control-label px-3" for="aggrement">개인정보 수집 및 이용에 동의합니다 (<a href="#popagree" id="popClick">약관보기</a>)</label>
                 </div>
-                <button className="formbtn btn btn-primary btn-lg btn-block" type="submit">SUBMIT</button>
+                <button className="formbtn btn btn-warning btn-md btn-block" type="submit">SUBMIT</button>
               </div>
               
             </form>

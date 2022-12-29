@@ -27,8 +27,8 @@ const Worksswiper = () => {
                    return(
                     <SwiperSlide className={item.cls} key={'sw'+index}>
                       <div className="swipertextbox">
-                        <div className="songmyung">{item.hashtag}</div>
-                        <div className="swiperdetail white-space-prewrap">{item.hashtagdetail}</div>
+                        <div className="songmyung">{item.hashtagtitle}</div>
+                        <div className="nanummyeongsub swiperdetail white-space-prewrap py-3">{item.hashtagdetail}</div>
                       </div>
                     </SwiperSlide>
                    )
