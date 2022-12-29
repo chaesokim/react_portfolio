@@ -1,0 +1,28 @@
+{
+  "aboutme" : 
+  [{
+    "hashtag" : "# ENFP",
+    "hashtagdetail" : "저의 MBTI는 ENFP입니다!\n진실되고 성실한 제 성격을 바탕으로\n제게 주어진 일은 최선을 다해 수행합니다.\n\n또한 풍부한 상상력과 창의력을 바탕으로\n매번 번뜩이는 아이디어로 새로운 방향성을 \n제시할 수 있는 아이디어 뱅크입니다.",
+    "co" : "단독작업",
+    "app" :  ["illust","photoshop","v-code"],
+    "cls" : "enfp",
+    "bg" : "gray"
+  },
+  {
+    "hashtag" : "# 다재다능한",
+    "hashtagdetail" : "1주",
+    "co" : "단독작업",
+    "app" :  ["illust","photoshop","v-code"],
+    "cls" : "versatile",
+    "bg" : "yellow"
+  },
+  {
+    "hashtag" : "# 감각적인",
+    "hashtagdetail" : "4주",
+    "co" : "단독작업",
+    "app" :  ["illust","photoshop","v-code"],
+    "cls" : "sensible",
+    "bg" : "green"
+  }]
+}
+
